@@ -1,0 +1,6 @@
+Enginering Log Book Program Ideas
+
+- automatic time-stamping
+- automatic hour counting and total
+- page numbering system to create easy references
+- image uploading with automatic figure 
