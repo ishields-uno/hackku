@@ -2,5 +2,7 @@ Enginering Log Book Program Ideas
 
 - automatic time-stamping
 - automatic hour counting and total
-- page numbering system to create easy references
-- image uploading with automatic figure 
+- page numbering system, lines and pages should act like a normal notebook
+- image uploading with automatic figure numbering and references
+- basic text editing (fonts, sizes, italics, bold, etc.)
+
